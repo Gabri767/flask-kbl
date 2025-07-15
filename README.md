@@ -18,29 +18,3 @@ Definição de níveis de acesso e permissões
 Backup e plano de recuperação
 
 Treinamento da equipe responsável
-
-Etapas:
-
-Levantamento dos documentos existentes
-
-Definição da estrutura de organização e nomenclatura
-
-Digitalização e categorização
-
-Implantação do GED
-
-Testes e validação do sistema
-
-Treinamento e implantação
-
-Monitoramento contínuo
-
-Resultados Esperados:
-
-Redução de tempo na busca por documentos
-
-Maior segurança das informações
-
-Conformidade com auditorias
-
-Melhoria na gestão documental
